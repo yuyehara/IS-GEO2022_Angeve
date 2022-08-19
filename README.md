@@ -4,6 +4,3 @@ The goal of this project is to map Angiopteris in the native vegetation dominate
 
 https://miro.com/app/board/uXjVPfSM4xE=/
 ![image](https://user-images.githubusercontent.com/45220540/185675239-d2e035eb-a05f-468c-8d57-6da1b54daaa9.png)
-
-Image data link
-Angiopteris![image](https://user-images.githubusercontent.com/45220540/185693560-40ffaabd-ea53-467a-8139-e9fd91b9e722.png)
